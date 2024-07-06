@@ -1,0 +1,29 @@
+
+h1{
+    background: brown;
+    color: Yellow;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+}
+/* code{
+    font-family: "monospace";
+    font-weight: 700;
+    background: black;
+    color: white;
+} */
+code > li{
+    background: greenyellow;
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+}
+.li{
+    background: black;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+}
+ol li{
+    background: black;
+    color: white;
+}

@@ -1,0 +1,31 @@
+*   In Absolute Position It Overlap the Another Position..... 
+
+
+
+* The Way of Building the Layout is :- 
+
+1. Float Layouts 
+   -----> The Old way of building layouts of all sizes . using 
+   the float CSS Property. Still used, but getting outdated fast... 
+
+2. FlexBox 
+
+   1. Modern Way of Laying out elements in a 1-dimensional row 
+      without using floats.... 
+
+   2. Perfect for component layouts......
+
+3. CSS Grid 
+
+   For Laying out element in a fully-fledged 2-dimensional grid.
+   Perfect for page layouts and complex components..
+   
+   
+   
+1. Float Layouts..... 
+
+
+
+
+
+

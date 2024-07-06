@@ -1,0 +1,65 @@
+/* #product-overview{
+    background: rebeccapurple; 
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+#plans{
+
+}
+.section-title{
+    color: #2ddf5c;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+h1{
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+h1{
+    background: black;
+    color: white;
+}
+/* .section-title{
+    color: #2ddf5c;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+} */ 
+
+
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+#product-overview{
+    background: #ff1b68;
+}
+.section-title{
+    color: #2ddf5c;
+    font-family: inherit;
+}
+#product-overview h1{
+    color: violet;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+}
+/* h1{
+    color: blue;
+    font-family: serif;
+} */
+
+
+/*  Adajcent Sibling */
+
+h3 + p {
+    background: black;
+    color: white;
+}
+

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vertical Navigation Bar</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  .navbar {
+    width: 200px;
+    background-color: #333;
+    height: 100%;
+    position: fixed;
+    overflow: auto;
+  }
+
+  .navbar a {
+    display: block;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+  }
+
+  .navbar a:hover {
+    background-color: #555;
+  }
+
+  .navbar img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 8px;
+  }
+
+  .navbar p {
+    margin: 0;
+    font-size: 14px;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="#">
+    <img src="https://s3.ap-south-1.amazonaws.com/dev.zitics.com/media/core/assets/image/Box.svg" alt="Image 1">
+    <p>Image 1</p>
+  </a>
+  <a href="#">
+    <img src="image2.jpg" alt="Image 2">
+    <p>Image 2</p>
+  </a>
+  <a href="#">
+    <img src="image3.jpg" alt="Image 3">
+    <p>Image 3</p>
+  </a>
+  <!-- Add more <a> tags for additional images -->
+</div>
+
+</body>
+</html>
